@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @istoliarov
 
-#### Web site: [http://istolyarov.ru](https://istoliarov.github.io/)
+#### Web site: [CV](https://istoliarov.github.io/)
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />

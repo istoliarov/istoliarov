@@ -1,50 +1,32 @@
-### 👋 Hi, I’m @istoliarov
+# Igor Stolyarov 👋
 
-#### Web site: [CV](https://istoliarov.github.io/)
+**Backend Engineer at Avito · Go · High-load systems**
 
-#### Tools what I'm currently using
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" />
-</p>
+10+ years of professional experience in backend and game development.
 
-#### Tools what I used
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+**[Full CV, experience & projects → istoliarov.github.io](https://istoliarov.github.io/)**
 
-#### Platforms
-<p>
-  <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
-</p>
+- **Now:** Go services and an internal Backend-Driven UI platform at Avito since January 2024.
+- **Previously:** Lead C# / Unity Developer at Tripledot Studios (Woodoku); Full-stack Unity Engineer at Adamant Games.
+- **Personal products:** [SimpleCard](https://simple-card.ru/) · [Easy Share](https://easy-share.ru/).
 
-| Avito, Russia | 2024.01 - ... |
-|:---------:|:----------------------------------:|
-| Senior | GO Backend software Engineer |
+### Backend & infrastructure
 
-| Tripledot Studios, United Kingdom | 2021Q1 - 2023Q4 |
-|:---------:|:----------------------------------:|
-| Middle+/Senior | C# Unity 3D Fullstack software Engineer |
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-| Adamant Games, Russia | 2018Q3 - 2021Q1 |
-|:---------:|:----------------------------------:|
-| Middle+ | C# Unity 3D Fullstack software Engineer |
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
-| SRC Cals-technologies, Russia | 2016 - 2018 |
-|:---------:|:----------------------------------:|
-| Junior/Middle | C# Fullstack software Engineer |
+### Game development background
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+
+[Email](mailto:iastoliarov@gmail.com) · [LinkedIn](https://www.linkedin.com/in/igor-stolyarov-5b015914b) · [Telegram](https://t.me/istolyarov_ru)
